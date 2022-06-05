@@ -1,0 +1,6 @@
+{
+"0": {"type": "Point", "Point": [X, Y]}
+"1" : {"type": "Connection", "Points": [ [X1,Y1], 
+							  [X2, Y2], 
+							  [X3, Y3]] }
+}

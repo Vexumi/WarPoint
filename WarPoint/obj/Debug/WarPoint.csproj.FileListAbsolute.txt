@@ -1,0 +1,70 @@
+E:\C#\Project\WarPoint\bin\Debug\WarPoint.exe.config
+E:\C#\Project\WarPoint\bin\Debug\WarPoint.exe
+E:\C#\Project\WarPoint\bin\Debug\WarPoint.pdb
+E:\C#\Project\WarPoint\obj\Debug\WarPoint.csproj.AssemblyReference.cache
+E:\C#\Project\WarPoint\obj\Debug\WarPoint.Form1.resources
+E:\C#\Project\WarPoint\obj\Debug\WarPoint.Properties.Resources.resources
+E:\C#\Project\WarPoint\obj\Debug\WarPoint.csproj.GenerateResource.cache
+E:\C#\Project\WarPoint\obj\Debug\WarPoint.csproj.CoreCompileInputs.cache
+E:\C#\Project\WarPoint\obj\Debug\WarPoint.exe
+E:\C#\Project\WarPoint\obj\Debug\WarPoint.pdb
+E:\C#\Project\WarPoint\obj\Debug\WarPoint.MenuForm.resources
+E:\C#\Project\WarPoint\obj\Debug\WarPoint.Settings.resources
+E:\C#\Project\WarPoint\obj\Debug\WarPoint.Help.resources
+E:\C#\Project\WarPoint\obj\Debug\WarPoint.Results.resources
+F:\C#\Project\WarPoint\bin\Debug\WarPoint.exe.config
+F:\C#\Project\WarPoint\bin\Debug\WarPoint.exe
+F:\C#\Project\WarPoint\bin\Debug\WarPoint.pdb
+F:\C#\Project\WarPoint\obj\Debug\WarPoint.csproj.AssemblyReference.cache
+F:\C#\Project\WarPoint\obj\Debug\WarPoint.Form1.resources
+F:\C#\Project\WarPoint\obj\Debug\WarPoint.Help.resources
+F:\C#\Project\WarPoint\obj\Debug\WarPoint.MenuForm.resources
+F:\C#\Project\WarPoint\obj\Debug\WarPoint.Properties.Resources.resources
+F:\C#\Project\WarPoint\obj\Debug\WarPoint.Results.resources
+F:\C#\Project\WarPoint\obj\Debug\WarPoint.Settings.resources
+F:\C#\Project\WarPoint\obj\Debug\WarPoint.csproj.GenerateResource.cache
+F:\C#\Project\WarPoint\obj\Debug\WarPoint.csproj.CoreCompileInputs.cache
+F:\C#\Project\WarPoint\obj\Debug\WarPoint.exe
+F:\C#\Project\WarPoint\obj\Debug\WarPoint.pdb
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\obj\Debug\WarPoint.csproj.AssemblyReference.cache
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\obj\Debug\WarPoint.Form1.resources
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\obj\Debug\WarPoint.Properties.Resources.resources
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\obj\Debug\WarPoint.csproj.GenerateResource.cache
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\obj\Debug\WarPoint.csproj.CoreCompileInputs.cache
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\obj\Debug\WarPoint.exe
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\obj\Debug\WarPoint.pdb
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\bin\Debug\WarPoint.exe.config
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\bin\Debug\WarPoint.exe
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\bin\Debug\WarPoint.pdb
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\obj\Debug\WarPoint.MenuForm.resources
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\obj\Debug\WarPoint.Help.resources
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\obj\Debug\WarPoint.Results.resources
+C:\Users\glebg\OneDrive\Рабочий стол\WarPointSandBox\WarPoint\obj\Debug\WarPoint.Settings.resources
+E:\C#\Project Sandbox V1\WarPoint\bin\Debug\WarPoint.exe.config
+E:\C#\Project Sandbox V1\WarPoint\bin\Debug\WarPoint.exe
+E:\C#\Project Sandbox V1\WarPoint\bin\Debug\WarPoint.pdb
+E:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.csproj.AssemblyReference.cache
+E:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.Form1.resources
+E:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.Help.resources
+E:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.MenuForm.resources
+E:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.Properties.Resources.resources
+E:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.Results.resources
+E:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.Settings.resources
+E:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.csproj.GenerateResource.cache
+E:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.csproj.CoreCompileInputs.cache
+E:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.exe
+E:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.pdb
+F:\C#\Project Sandbox V1\WarPoint\bin\Debug\WarPoint.exe.config
+F:\C#\Project Sandbox V1\WarPoint\bin\Debug\WarPoint.exe
+F:\C#\Project Sandbox V1\WarPoint\bin\Debug\WarPoint.pdb
+F:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.csproj.AssemblyReference.cache
+F:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.Form1.resources
+F:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.Help.resources
+F:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.MenuForm.resources
+F:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.Properties.Resources.resources
+F:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.Results.resources
+F:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.Settings.resources
+F:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.csproj.GenerateResource.cache
+F:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.csproj.CoreCompileInputs.cache
+F:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.exe
+F:\C#\Project Sandbox V1\WarPoint\obj\Debug\WarPoint.pdb
